@@ -16,5 +16,15 @@
     "shortDescription": "Ovo je kratki testni opis",
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam consectetur fuga in, rerum reprehenderit illum nobis est neque reiciendis laudantium atque quae veritatis iure facilis, modi soluta sint numquam? Veritatis.",
     "imageUrl": "https://raw.githubusercontent.com/WiseBit97/test/main/images/news-3.jpeg"
-  }
+  },
+  "oldNews": [
+    {
+      "datetime": {
+        "title": "Stara vijest",
+        "shortDescription": "Ovo je kratki testni opis",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam consectetur fuga in, rerum reprehenderit illum nobis est neque reiciendis laudantium atque quae veritatis iure facilis, modi soluta sint numquam? Veritatis.",
+        "imageUrl": "https://raw.githubusercontent.com/WiseBit97/test/main/images/news-1.jpeg"
+      }
+    }
+  ]
 }
